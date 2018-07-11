@@ -1,3 +1,3 @@
 # Demo
-Demo for troubleshooting
-Lazarus sample codes for troubleshooting
+Demo files 
+- Lazarus sample codes for troubleshooting
